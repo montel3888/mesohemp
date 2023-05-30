@@ -1,0 +1,1 @@
+declare module 'quicklink/dist/react/hoc.js'
